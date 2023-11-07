@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "da761bc0e5239247",
+    "type": "split",
+    "children": [
+      {
+        "id": "24167f3159fe1dc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d40bccbe61de8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/프로메테우스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc724ac8fcb44655",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6f443174ab8c726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370eeed19d155361",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98d5569aca69b519",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fee516eb4b126d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d3c617f3c858dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f867d768c2f7cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2853fcca687d3277",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tech/프로메테우스.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7ec90f617cd3b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tech/프로메테우스.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04c14f61c0f5cf31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a946ca0985046d24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tech/프로메테우스.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "33d40bccbe61de8d",
+  "lastOpenFiles": [
+    "tech/메트릭.md",
+    "tech/프로메테우스.md",
+    "tech/대분류/Obsidian.md",
+    "tech/오픈소스.md",
+    "tech/메트릭메트릭.md",
+    "tech/Metric.md",
+    "tech/Prometheus.md",
+    "tech/프로메테프로메테우스.md",
+    "tech/대분류/회사.md",
+    "tech/2023-11-07.md",
+    "tech/Untitled 4.canvas",
+    "tech/Untitled 6.md",
+    "tech/Untitled.canvas",
+    "tech/Untitled.md",
+    "tech/방화벽.md",
+    "tech/모니터링.md",
+    "무제 파일 2.md",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "2023-11-07.md"
+  ]
+}

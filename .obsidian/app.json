@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "links",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "tech",
+  "livePreview": true,
+  "defaultViewMode": "preview"
+}
