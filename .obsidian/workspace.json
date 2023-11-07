@@ -8,13 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33d40bccbe61de8d",
+            "id": "6386012b34727eb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/프로메테우스.md",
+                "file": "tech/Response Time.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e601fd0db7c62b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/응답 시간.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프로메",
+                "query": "AWS Load Balancer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/프로메테우스.md",
+                "file": "tech/Response Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/프로메테우스.md",
+                "file": "tech/Response Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/프로메테우스.md"
+                "file": "tech/Response Time.md"
               }
             }
           }
@@ -160,13 +172,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "33d40bccbe61de8d",
+  "active": "6386012b34727eb3",
   "lastOpenFiles": [
+    "tech/대기 시侍간.md",
+    "tech/Response Time.md",
+    "tech/대기 시간.md",
+    "tech/응답 시간.md",
+    "tech/성능.md",
+    "tech/Latency.md",
+    "tech/가용성.md",
+    "tech/로드밸런서.md",
+    "tech/서버.md",
+    "tech/Load Balancer.md",
+    "tech/AWS Load Balancer.md",
+    "tech/지표.md",
+    "tech/프로메테우스.md",
+    "tech/무제 파일.md",
     "tech/HA 프록시 익스포터.md",
     "tech/가伽용성.md",
-    "tech/가용성.md",
     "tech/고가용성.md",
-    "tech/프로메테우스.md",
     "tech/Prometheus.md",
     "tech/메트릭.md",
     "tech/대분류/Obsidian.md",
@@ -177,14 +201,6 @@
     "tech/대분류/회사.md",
     "tech/2023-11-07.md",
     "tech/Untitled 4.canvas",
-    "tech/Untitled 6.md",
-    "tech/Untitled.canvas",
-    "tech/Untitled.md",
-    "tech/방화벽.md",
-    "tech/모니터링.md",
-    "무제 파일 2.md",
-    "무제 파일 1.md",
-    "무제 파일.md",
-    "2023-11-07.md"
+    "tech/Untitled.canvas"
   ]
 }
