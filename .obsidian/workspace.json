@@ -4,83 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "24167f3159fe1dc8",
+        "id": "94f42ad6447f9e07",
         "type": "tabs",
         "children": [
           {
-            "id": "6386012b34727eb3",
+            "id": "7829e719d818a4ab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3a58ec67f5576c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Response Time.md",
+                "file": "tech/API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bbe53c7d86630f3",
+            "id": "51bd2376689c0caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Vagrant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "448cea7892237d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/프로비저닝.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08d262a806836667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/방화벽.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e601fd0db7c62b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/응답 시간.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e219c6fbb9853a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/가용성.md",
+                "file": "tech/인터페이스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/방화벽.md",
+                "file": "tech/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/방화벽.md",
+                "file": "tech/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/방화벽.md"
+                "file": "tech/API.md"
               }
             }
           }
@@ -208,34 +168,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "08d262a806836667",
+  "active": "a3a58ec67f5576c3",
   "lastOpenFiles": [
+    "tech/프로토콜.md",
+    "tech/보안.md",
+    "tech/API.md",
+    "tech/프로그램.md",
+    "tech/인터페이스.md",
+    "tech/애플리케이션.md",
+    "tech/라이브러리.md",
+    "tech/네트워크.md",
+    "tech/네크워크.md",
+    "tech/고 가용성.md",
+    "tech/고가용성.md",
+    "tech/가용성.md",
+    "tech/응답 시간.md",
+    "tech/Response Time.md",
+    "tech/Vagrant.md",
     "tech/프로비저닝.md",
     "tech/방화벽.md",
+    "tech/트래픽.md",
     "tech/VM.md",
-    "tech/Vagrant.md",
-    "tech/Response Time.md",
     "tech/인터넷 프로토콜.md",
     "tech/회사 용어/오케스트로 CMP.md",
-    "tech/응답 시간.md",
     "tech/도메인명.md",
     "tech/메트릭.md",
     "tech/로드밸런서.md",
     "tech/대기 시간.md",
     "tech/가상 머신.md",
-    "tech/지표.md",
-    "tech/AWS Load Balancer.md",
-    "tech/Load Balancer.md",
-    "tech/성능.md",
-    "tech/대기 시侍간.md",
-    "tech/Latency.md",
-    "tech/가용성.md",
-    "tech/서버.md",
-    "tech/프로메테우스.md",
-    "tech/무제 파일.md",
-    "tech/HA 프록시 익스포터.md",
-    "tech/가伽용성.md",
-    "tech/고가용성.md",
     "tech/Untitled 4.canvas",
     "tech/Untitled.canvas"
   ]
