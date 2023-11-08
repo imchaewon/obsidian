@@ -5,7 +5,7 @@ Beats는 데이터를 [[Elasticsearch]]에 직접 전송할 수 있으며, [[Lo
 - [[Filebeat]] - 로그파일
 - [[Metricbeat]] - Metrics를 주기적으로 수집
 - Packetbeat - 네트워크 데이터
-- Winlogbeat - Windows 이벤트 로그
+- [[Winlogbeat]] - Windows 이벤트 로그
 - Auditbeat - 감사(Audit) 데이터
 - [[Heartbeat]] - 가동 시간 모니터링
 - Functionbeat - 서버를 사용하지 않는 수집기

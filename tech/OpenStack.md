@@ -9,3 +9,5 @@ OpenStack 구성요소
 - **[[Swift]]** 
 - **[[Glance]]** 
 - **[[Horizon]]**
+- [[Octavia]]
+	- [[Amphora]]

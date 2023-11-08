@@ -3,3 +3,5 @@
 이 도구는 서버, [[VM]], [[컨테이너]], [[클라우드]] 환경 및 네트워크 디바이스와 같은 여러 다양한 데이터 소스에서 시스템 및 애플리케이션 성능에 관한 메트릭 데이터를 수집함
 
 Metricbeat는 다양한 메트릭 데이터, 예를 들면 CPU 사용률, 메모리 사용률, 디스크 사용률, 네트워크 활동 및 다른 성능 지표를 실시간으로 수집하고 Elastic Stack의 다른 구성 요소 중 하나인 Elasticsearch에 전송함
+
+Metricbeat는 [[Elastic Stack]]의 일부로 사용되며, 주로 [[Elasticsearch]], [[Logstash]], [[Kibana]] 와 통합하여 사용됨

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4ca9de9941238e",
+        "id": "e44c0f600047a21c",
         "type": "tabs",
         "children": [
           {
-            "id": "457d9c1f14ad24c5",
+            "id": "fec5f0edb6d92d3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "UDP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "UDP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "UDP.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,38 +123,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "457d9c1f14ad24c5",
+  "active": "fec5f0edb6d92d3b",
   "lastOpenFiles": [
-    "Untitled 6.md",
+    "정적 리소스.md",
+    "CRLF.md",
+    "WAS.md",
+    "Oracle.md",
+    "웹 애플리케이션.md",
+    "CDN.md",
+    "로깅.md",
+    "데이터베이스.md",
+    "HTTP 메서드.md",
+    "자바스크립트.md",
+    "HTML.md",
+    "프로그램.md",
+    "Scale-up.md",
+    "SP.md",
+    "OWS.md",
+    "스케일 아웃.md",
+    "HTTP.md",
+    "시스템 이벤트.md",
+    "Stateful.md",
+    "스케일 업.md",
+    "Connectionless.md",
+    "Winlogbeat.md",
+    "Persistent Connection.md",
+    "DBMS.md",
+    "hypervisor.md",
+    "로직.md",
     "Untitled 4.canvas",
-    "Untitled 4.md",
-    "3-way handshake.md",
-    "Elastic Stack.md",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
-    "reduce병렬처리원리.md",
-    "VM.md",
     "32d0482c-9021-4960-8acd-43fad101e012.png",
     "32d0482c-9021-4960-8acd-43fad101e012 1.png",
-    "K8s.md",
-    "패킷 스위치.md",
-    "베어메탈.md",
-    "에이전트.md",
-    "URL.md",
-    "호스팅 서비스.md",
-    "대분류/MacOS&Linux.md",
-    "클라우드 서비스 모델.md",
-    "URN.md",
-    "CSR & SSR.md",
-    "모니터링.md",
-    "대분류/Java.md",
-    "대분류/JPA.md",
-    "대분류/React.md",
-    "대분류/Batch&api.md",
-    "대분류/Excel&Accsess.md",
-    "대분류/Spring.md",
-    "대분류/Oracle&SQLDeveloper.md",
-    "대분류/Git.md",
-    "대분류/Cloud&AWS.md",
     "대분류/팁 - GA.txt",
     "Pasted image 20231012022935.png",
     "Untitled 3.canvas",
