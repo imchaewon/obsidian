@@ -5,5 +5,5 @@ Cloud Service Provider
 ## 대표적인 CSP
 - [[AWS]]
 - [[Microsoft Azure]]
-- GCP
+- [[GCP]]
 - IBM Cloud

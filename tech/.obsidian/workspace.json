@@ -4,251 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae1c10cf6f60adc",
+        "id": "07c66697fa1608b4",
         "type": "tabs",
         "children": [
           {
-            "id": "a57028c4120ebfc5",
+            "id": "3e3cc3edbd9fd059",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vSphere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c6dca9f6625723b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "473ebe67d6cb42f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K8s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b501eb8197c45b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구글.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e83e9c78920221b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNCF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63b832861cb6304c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 네이티브 솔루션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b66b58785e49f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전통적인 IT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398b43d3cfb2c39d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a028b89352500fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "361f3cab73b730b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a345603acefded16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 컴퓨팅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4d721b8e4f2d71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMware Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2db52ed5a0aadb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84e7ceca76bd6a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴포넌트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c078360599cce417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon RDS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce907760136aad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon EC2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b490aeaf8a6cb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b2a1b05d014656d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMware Workstation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b55bf449220db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESXi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13641e1b768e0f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vSphere.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "네트워크 호스팅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -315,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Azure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft Azure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Microsoft Azure.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -376,34 +139,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a028b89352500fc2",
+  "active": "3e3cc3edbd9fd059",
   "lastOpenFiles": [
+    "컴퓨팅 자원.md",
+    "IBM Cloud.md",
+    "아마존 닷컴.md",
+    "클라우드 플랫폼.md",
+    "네트워킹.md",
+    "솔루션.md",
+    "Azure.md",
     "Microsoft.md",
     "Microsoft Azure.md",
-    "CSP.md",
-    "Azure.md",
-    "AWS.md",
-    "서비스.md",
-    "클라우드 컴퓨팅.md",
-    "전통적인 IT.md",
-    "클라우드 서비스 제공자.md",
     "클라우드 서비스 제공업체.md",
-    "네트워크.md",
-    "인프라.md",
-    "온디맨드 서비스.md",
-    "컴퓨팅 리소스.md",
+    "클라우드 서비스 제공자.md",
     "온디맨드.md",
-    "컴퓨팅.md",
-    "플랫폼.md",
     "앱.md",
-    "애플리케이션.md",
-    "클라우드 네이티브 솔루션.md",
+    "온디맨드 서비스.md",
     "개발.md",
-    "인터넷.md",
-    "배포.md",
-    "소프트웨어.md",
-    "유지보수.md",
-    "클라우드 네이티브.md",
+    "전통적인 IT.md",
+    "클라우드 네이티브 솔루션.md",
+    "구글.md",
+    "CNCF.md",
+    "에뮬레이션.md",
+    "컴퓨팅 리소스.md",
+    "컴퓨팅 서비스.md",
+    "가상 환경.md",
+    "모듈화.md",
+    "NIC.md",
+    "운영체제.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
