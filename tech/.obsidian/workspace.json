@@ -4,18 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "07c66697fa1608b4",
+        "id": "0ae1c10cf6f60adc",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3cc3edbd9fd059",
+            "id": "23944fa1ea6a2169",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "모니터링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a588c3f98f4d7918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스프링 클라우드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f372ea463548038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "분산 트레이싱.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "137b39e92c009c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "분산 시스템.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57028c4120ebfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring WebFlux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34221c78438a96d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VMware.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "네트워크 호스팅",
+                "query": "분산.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "분산 트레이싱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "분산 트레이싱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "분산 트레이싱.md"
+              }
             }
           }
         ]
@@ -139,34 +208,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3e3cc3edbd9fd059",
+  "active": "6f372ea463548038",
   "lastOpenFiles": [
-    "소프트웨어.md",
-    "백엔드.md",
-    "Third Party.md",
-    "3rd party.md",
-    "제 3자.md",
-    "서드파티 서비스.md",
-    "서드파티 소프트웨어.md",
-    "액세스.md",
-    "서드파티.md",
-    "OAuth.md",
-    "인증.md",
-    "API 게이트웨이.md",
-    "필터링.md",
+    "분산 시스템.md",
+    "분산 트레이싱.md",
+    "분산.md",
     "스프링 클라우드.md",
-    "Feign.md",
-    "Framework.md",
-    "Spring WebFlux.md",
-    "리액티브 프로그래밍.md",
+    "클라우드 네이티브.md",
+    "트레이싱.md",
+    "프레임워크.md",
+    "백엔드.md",
+    "API 게이트웨이.md",
+    "컴포넌트.md",
+    "인터페이스.md",
+    "CLI.md",
+    "GUI.md",
+    "유지보수.md",
+    "모듈.md",
+    "의존성.md",
+    "MSA.md",
+    "프로그래밍.md",
+    "명령어.md",
+    "명령문.md",
+    "소프트웨어.md",
+    "웹 애플리케이션.md",
+    "로깅.md",
+    "프로세스.md",
     "캐싱.md",
-    "일련번호.md",
-    "Parallels Desktop.md",
-    "오토 스케일링.md",
-    "권한.md",
-    "무제 파일 5.md",
-    "장치.md",
-    "부하.md",
+    "모니터링.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
