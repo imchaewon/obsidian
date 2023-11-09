@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "07c66697fa1608b4",
+        "id": "0ae1c10cf6f60adc",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3cc3edbd9fd059",
+            "id": "23944fa1ea6a2169",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "모니터링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c9ac6b736266e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리액티브 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57028c4120ebfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring WebFlux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34221c78438a96d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VMware.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "네트워크 호스팅",
+                "query": "tag:#애플리케이션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "리액티브 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "리액티브 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "리액티브 프로그래밍.md"
+              }
             }
           }
         ]
@@ -139,34 +184,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3e3cc3edbd9fd059",
+  "active": "7c9ac6b736266e7b",
   "lastOpenFiles": [
+    "Spring WebFlux.md",
+    "리액티브 프로그래밍.md",
+    "Framework.md",
+    "프레임워크.md",
+    "VMware.md",
+    "대분류/Spring.md",
+    "모니터링.md",
     "API.md",
-    "무제 파일 5.md",
     "고 가용성.md",
     "라이브러리.md",
     "프로비저닝.md",
     "Vagrant.md",
-    "Vagrant는 가상 환경을 관리하고 프로비저닝하는 데 사용되는 오픈 소스 가상화 소프트웨어입니다. 주로 개발 및 테스트 환경을 쉽게 설정하고 관리하기 위해 사용됩니다. Vagrant를 사용하면 개발자나 시스템 관리자는 가상 머신을 생성, 구성 및 공유할 수 있으며, 일관된 환경에서 애플리케이션을무제 파일 5.md",
-    "스토리지.md",
-    "데이터 스토리지.md",
-    "SAN.md",
+    "하이퍼바이저.md",
+    "Nova.md",
+    "OpenStack.md",
+    "Parallels Desktop.md",
+    "Parallels.md",
+    "가상 머신.md",
     "네트워크 스토리지 장치.md",
-    "네트워크 장치.md",
-    "NAS.md",
-    "복구.md",
-    "백업.md",
-    "일관성.md",
-    "게이트웨이.md",
-    "TCP.md",
-    "데이터베이스.md",
-    "TCP세그먼트.md",
-    "포트.md",
-    "프로그램.md",
-    "서비스.md",
-    "클라이언트.md",
-    "웹 브라우저.md",
-    "프로세스.md",
+    "무제 파일 5.md",
+    "장치.md",
+    "스토리지.md",
+    "DAS.md",
+    "고가용성.md",
+    "무제 파일.canvas",
+    "스케일링.md",
+    "컨테이너 오케스트레이션.md",
     "HTTP",
     "TCP",
     "Untitled 4.canvas",
