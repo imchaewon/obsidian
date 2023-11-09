@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple.md",
+                "file": "구조화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apple.md",
+            "file": "구조화.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apple.md",
+            "file": "구조화.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apple.md"
+            "file": "구조화.md"
           }
         }
       }
@@ -133,9 +133,21 @@
   },
   "active": "103112e893ce5213",
   "lastOpenFiles": [
+    "계층 구조.md",
+    "구조화.md",
+    "파일 스토리지.md",
+    "메타데이터.md",
+    "스토리지 시스템.md",
+    "블록 스토리지.md",
+    "파일 시스템.md",
+    "NTFS.md",
+    "신뢰성.md",
+    "안정성.md",
+    "복구.md",
     "macOS.md",
     "Apple.md",
-    "파일 시스템.md",
+    "iOS.md",
+    "운영 체제.md",
     "Windows.md",
     "개발.md",
     "Microsoft.md",
@@ -145,20 +157,8 @@
     "업무 프로세스.md",
     "비즈니스.md",
     "서비스.md",
-    "파일 스토리지.md",
-    "스토리지 시스템.md",
     "스토리지.md",
-    "블록 스토리지.md",
     "시스템.md",
-    "저장소.md",
-    "저장 장치.md",
-    "Storage.md",
-    "Cinder.md",
-    "EOL.md",
-    "가상 머신.md",
-    "VM.md",
-    "컴퓨팅.md",
-    "IDC.md",
     "무제 파일.canvas",
     "Untitled 4.canvas",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
