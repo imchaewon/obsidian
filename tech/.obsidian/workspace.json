@@ -8,48 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23944fa1ea6a2169",
+            "id": "108d835f6f4a0be7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모니터링.md",
+                "file": "VMware.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a588c3f98f4d7918",
+            "id": "b8c8371a23518d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스프링 클라우드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f372ea463548038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "분산 트레이싱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "137b39e92c009c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "분산 시스템.md",
+                "file": "vSphere.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring WebFlux.md",
+                "file": "리액티브 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78bd983023502558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스트림.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "분산.m",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "분산 트레이싱.md",
+                "file": "스트림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "분산 트레이싱.md",
+                "file": "스트림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "분산 트레이싱.md"
+                "file": "스트림.md"
               }
             }
           }
@@ -208,34 +196,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f372ea463548038",
+  "active": "78bd983023502558",
   "lastOpenFiles": [
-    "분산 시스템.md",
-    "분산 트레이싱.md",
-    "분산.md",
-    "스프링 클라우드.md",
-    "클라우드 네이티브.md",
-    "트레이싱.md",
-    "프레임워크.md",
-    "백엔드.md",
-    "API 게이트웨이.md",
-    "컴포넌트.md",
-    "인터페이스.md",
-    "CLI.md",
-    "GUI.md",
-    "유지보수.md",
+    "리액티브 프로그래밍.md",
+    "스트림.md",
+    "Spring WebFlux.md",
+    "vSphere.md",
+    "중앙 집중식 아키텍처.md",
+    "중앙 시스템.md",
+    "중앙 집중식 시스템.md",
+    "컴퓨팅.md",
     "모듈.md",
-    "의존성.md",
-    "MSA.md",
-    "프로그래밍.md",
-    "명령어.md",
-    "명령문.md",
-    "소프트웨어.md",
-    "웹 애플리케이션.md",
-    "로깅.md",
-    "프로세스.md",
-    "캐싱.md",
+    "단일 컴퓨터 시스템.md",
+    "분산 시스템.md",
+    "최적화.md",
+    "분산 트레이싱.md",
+    "트레이싱.md",
+    "이슈.md",
+    "VMware.md",
+    "가상화.md",
     "모니터링.md",
+    "hypervisor.md",
+    "하이퍼바이저.md",
+    "비용.md",
+    "트랜잭션.md",
+    "ACID.md",
+    "가용성.md",
+    "스프링 클라우드.md",
+    "아키텍처.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
