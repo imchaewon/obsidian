@@ -13,98 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VMware.md",
+                "file": "vSphere.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1123a6db59a053c6",
+            "id": "fc23d62cc1203e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "클라우드 네이티브.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ca085af33e4c3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8888f598bd9a6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "빌드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e0489dc04ba099a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "소스 코드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61d748f5f5e754fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍 언어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3061dcf7892be851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "방법론.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6281dcba5c55ad08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인프라.md",
+                "file": "Netflix.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "네이티브.",
+                "query": "netflix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍 언어.md",
+                "file": "Netflix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍 언어.md",
+                "file": "Netflix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍 언어.md"
+                "file": "Netflix.md"
               }
             }
           }
@@ -232,34 +160,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "61d748f5f5e754fc",
+  "active": "fc23d62cc1203e11",
   "lastOpenFiles": [
-    "프로그래밍.md",
-    "프로그래밍 언어.md",
-    "소스 코드.md",
-    "기계어.md",
-    "이진 코드.md",
-    "코드.md",
-    "프로그램.md",
-    "소프트웨어.md",
-    "명령어.md",
-    "빌드.md",
-    "CI-CD.md",
-    "방법론.md",
-    "클라우드 네이티브.md",
-    "인프라스트럭처.md",
-    "인프라.md",
-    "자동화.md",
-    "[자동화.md",
-    "컨테이너.md",
     "vSphere.md",
     "VMware.md",
-    "리액티브 프로그래밍.md",
-    "VM.md",
-    "추상화.md",
-    "스트림.md",
-    "필터링.md",
-    "집계.md",
+    "Feign.md",
+    "Netflix.md",
+    "Ribbon.md",
+    "클라우드 네이티브.md",
+    "인프라.md",
+    "방법론.md",
+    "로드 밸런서.md",
+    "로드밸런서.md",
+    "로드 밸런싱.md",
+    "라이브러리.md",
+    "CI-CD.md",
+    "테스트 환경.md",
+    "운영 환경.md",
+    "프로덕션 환경.md",
+    "소프트웨어.md",
+    "서비스.md",
+    "배포.md",
+    "스테이징 환경.md",
+    "업데이트.md",
+    "테스트 도구.md",
+    "품질.md",
+    "빌드.md",
+    "소스 코드.md",
+    "프로그래밍 언어.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
