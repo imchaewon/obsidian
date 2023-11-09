@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EOS.md",
+                "file": "업무 프로세스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "EOS.md",
+            "file": "업무 프로세스.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "EOS.md",
+            "file": "업무 프로세스.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "EOS.md"
+            "file": "업무 프로세스.md"
           }
         }
       }
@@ -133,32 +133,32 @@
   },
   "active": "103112e893ce5213",
   "lastOpenFiles": [
+    "조직화.md",
+    "업무 프로세스.md",
+    "파일 시스템.md",
+    "파일 스토리지.md",
+    "스토리지 시스템.md",
+    "스토리지.md",
+    "블록 스토리지.md",
+    "시스템.md",
+    "저장소.md",
+    "저장 장치.md",
+    "Storage.md",
+    "Cinder.md",
     "EOL.md",
+    "가상 머신.md",
+    "VM.md",
+    "컴퓨팅.md",
+    "IDC.md",
+    "CDN.md",
     "EOS.md",
+    "유지보수.md",
     "전통적인 IT.md",
     "온프레미스.md",
     "소프트웨어 배포 모델.md",
     "클라우드 배포.md",
     "클라우드 서비스.md",
     "클라우드.md",
-    "클라우드 서비스 모델.md",
-    "클라우드 배포 모델.md",
-    "인프라.md",
-    "자원.md",
-    "리소스.md",
-    "클라우드 서비스 제공업체.md",
-    "컴퓨팅 자원.md",
-    "배포 모델.md",
-    "Private Cloud.md",
-    "클라우드 네이티브 솔루션.md",
-    "클라우.md",
-    "Amphora.md",
-    "Chronograf.md",
-    "CRLF.md",
-    "CNCF.md",
-    "서드파티.md",
-    "TCP 세그먼트 2.md",
-    "3rd party.md",
     "무제 파일.canvas",
     "Untitled 4.canvas",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
