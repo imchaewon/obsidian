@@ -11,8 +11,12 @@
             "id": "fec5f0edb6d92d3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VPC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "VPC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "VPC.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "VPC.md"
+          }
         }
       }
     ],
@@ -123,34 +131,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fec5f0edb6d92d3b",
+  "active": "d597f9067e9946b7",
   "lastOpenFiles": [
-    "정적 리소스.md",
-    "CRLF.md",
-    "WAS.md",
-    "Oracle.md",
-    "웹 애플리케이션.md",
-    "CDN.md",
-    "로깅.md",
-    "데이터베이스.md",
-    "HTTP 메서드.md",
-    "자바스크립트.md",
-    "HTML.md",
-    "프로그램.md",
-    "Scale-up.md",
-    "SP.md",
-    "OWS.md",
-    "스케일 아웃.md",
-    "HTTP.md",
-    "시스템 이벤트.md",
-    "Stateful.md",
-    "스케일 업.md",
-    "Connectionless.md",
-    "Winlogbeat.md",
-    "Persistent Connection.md",
-    "DBMS.md",
-    "hypervisor.md",
-    "로직.md",
+    "파이썬 2.md",
+    "스프링 클라우드.md",
+    "유지보수.md",
+    "모듈.md",
+    "프로그래밍.md",
+    "소프트웨어.md",
+    "백엔드.md",
+    "서드파티 서비스.md",
+    "3rd party.md",
+    "제 3자.md",
+    "Third Party.md",
+    "액세스.md",
+    "인증.md",
+    "API.md",
+    "고 가용성.md",
+    "라이브러리.md",
+    "Vagrant.md",
+    "동기화.md",
+    "가상 서버.md",
+    "AWS.md",
+    "자원.md",
+    "Oracle Cloud.md",
+    "솔루션.md",
+    "컴퓨팅 리소스.md",
+    "운영체제.md",
+    "Microsoft Azure.md",
+    "무제 파일.canvas",
     "Untitled 4.canvas",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
     "32d0482c-9021-4960-8acd-43fad101e012.png",
