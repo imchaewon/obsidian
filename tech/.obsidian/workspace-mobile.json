@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무 프로세스.md",
+                "file": "Apple.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "업무 프로세스.md",
+            "file": "Apple.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "업무 프로세스.md",
+            "file": "Apple.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "업무 프로세스.md"
+            "file": "Apple.md"
           }
         }
       }
@@ -133,9 +133,18 @@
   },
   "active": "103112e893ce5213",
   "lastOpenFiles": [
+    "macOS.md",
+    "Apple.md",
+    "파일 시스템.md",
+    "Windows.md",
+    "개발.md",
+    "Microsoft.md",
+    "디렉토리 구조.md",
+    "트리 구조.md",
     "조직화.md",
     "업무 프로세스.md",
-    "파일 시스템.md",
+    "비즈니스.md",
+    "서비스.md",
     "파일 스토리지.md",
     "스토리지 시스템.md",
     "스토리지.md",
@@ -150,15 +159,6 @@
     "VM.md",
     "컴퓨팅.md",
     "IDC.md",
-    "CDN.md",
-    "EOS.md",
-    "유지보수.md",
-    "전통적인 IT.md",
-    "온프레미스.md",
-    "소프트웨어 배포 모델.md",
-    "클라우드 배포.md",
-    "클라우드 서비스.md",
-    "클라우드.md",
     "무제 파일.canvas",
     "Untitled 4.canvas",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
