@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자원.md",
+                "file": "소프트웨어 배포 모델.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "자원.md",
+            "file": "소프트웨어 배포 모델.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "자원.md",
+            "file": "소프트웨어 배포 모델.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "자원.md"
+            "file": "소프트웨어 배포 모델.md"
           }
         }
       }
@@ -133,11 +133,16 @@
   },
   "active": "6a5137945befab56",
   "lastOpenFiles": [
+    "클라우드 서비스 모델.md",
+    "소프트웨어 배포 모델.md",
+    "클라우드 배포.md",
     "온프레미스.md",
     "전통적인 IT.md",
-    "소프트웨어 배포 모델.md",
     "클라우드 배포 모델.md",
     "클라우드 서비스.md",
+    "인프라.md",
+    "자원.md",
+    "리소스.md",
     "클라우드 서비스 제공업체.md",
     "컴퓨팅 자원.md",
     "배포 모델.md",
@@ -154,11 +159,6 @@
     "Third Party.md",
     "제 3자.md",
     "Threshold.md",
-    "VPC.md",
-    "네트워크.md",
-    "파이썬 2.md",
-    "스프링 클라우드.md",
-    "유지보수.md",
     "무제 파일.canvas",
     "Untitled 4.canvas",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
