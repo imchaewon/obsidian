@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "구조화.md",
-                "mode": "source",
+                "file": "스토리지 시스템.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "구조화.md",
+            "file": "스토리지 시스템.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "구조화.md",
+            "file": "스토리지 시스템.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "구조화.md"
+            "file": "스토리지 시스템.md"
           }
         }
       }
@@ -133,11 +133,12 @@
   },
   "active": "103112e893ce5213",
   "lastOpenFiles": [
+    "파일 스토리지.md",
+    "스토리지 시스템.md",
     "계층 구조.md",
     "구조화.md",
-    "파일 스토리지.md",
+    "조직화.md",
     "메타데이터.md",
-    "스토리지 시스템.md",
     "블록 스토리지.md",
     "파일 시스템.md",
     "NTFS.md",
@@ -153,7 +154,6 @@
     "Microsoft.md",
     "디렉토리 구조.md",
     "트리 구조.md",
-    "조직화.md",
     "업무 프로세스.md",
     "비즈니스.md",
     "서비스.md",
