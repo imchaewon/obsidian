@@ -25,7 +25,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리액티브 프로그래밍.md",
+                "file": "권한.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a588c3f98f4d7918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스프링 클라우드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f6be4675504f4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "클라우드 네이티브.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d62d20a8deadf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API 게이트웨이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b1c73642a5f626f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인증.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10f5437a6cd0c815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OAuth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19e84b258a7a43c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "서드파티.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa4249c7e2143fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "액세스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e7e50423d4b9b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스프링 클라우드.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -85,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#애플리케이션",
+                "query": "권한.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리액티브 프로그래밍.md",
+                "file": "서드파티.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리액티브 프로그래밍.md",
+                "file": "서드파티.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리액티브 프로그래밍.md"
+                "file": "서드파티.md"
               }
             }
           }
@@ -184,10 +280,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7c9ac6b736266e7b",
+  "active": "19e84b258a7a43c8",
   "lastOpenFiles": [
-    "Spring WebFlux.md",
+    "OAuth.md",
+    "액세스.md",
+    "서드파티.md",
+    "인증.md",
+    "API 게이트웨이.md",
+    "클라우드 네이티브.md",
+    "필터링.md",
+    "스프링 클라우드.md",
+    "Feign.md",
+    "라이브러리.md",
+    "클라이언트.md",
+    "HTTP.md",
+    "MSA.md",
+    "권한.md",
     "리액티브 프로그래밍.md",
+    "Spring WebFlux.md",
     "Framework.md",
     "프레임워크.md",
     "VMware.md",
@@ -195,24 +305,10 @@
     "모니터링.md",
     "API.md",
     "고 가용성.md",
-    "라이브러리.md",
     "프로비저닝.md",
     "Vagrant.md",
     "하이퍼바이저.md",
-    "Nova.md",
-    "OpenStack.md",
-    "Parallels Desktop.md",
-    "Parallels.md",
-    "가상 머신.md",
-    "네트워크 스토리지 장치.md",
-    "무제 파일 5.md",
-    "장치.md",
-    "스토리지.md",
-    "DAS.md",
-    "고가용성.md",
     "무제 파일.canvas",
-    "스케일링.md",
-    "컨테이너 오케스트레이션.md",
     "HTTP",
     "TCP",
     "Untitled 4.canvas",
