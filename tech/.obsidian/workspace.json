@@ -4,18 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "07c66697fa1608b4",
+        "id": "f5ef77dbf1307f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3cc3edbd9fd059",
+            "id": "9b08dce4b850c07e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e62be7d2a60b25ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TICK 스택.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b05c0824af3291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모니터링 시스템.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "316d6fc3f8ed1f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datadog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00bc421f2085edcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터독.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12da69b034e5b601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telegraf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84f30c2e56b2b7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telegraf 목적지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f1f4a2afd6de61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InfluxData.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20e723c554d02669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d7dfe50f26a7570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YAML.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -44,8 +157,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "네트워크 호스팅",
-                "matchingCase": false,
+                "query": "Telegraf.",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "InfluxData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "InfluxData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "InfluxData.md"
+              }
             }
           }
         ]
@@ -139,35 +256,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3e3cc3edbd9fd059",
+  "active": "93f1f4a2afd6de61",
   "lastOpenFiles": [
+    "대시보드.md",
+    "시각화.md",
     "타임 시리즈 데이터베이스.md",
-    "스위프트.md",
-    "블록 주소.md",
-    "Google.md",
-    "New Relic.md",
-    "객체지향.md",
-    "Telegraf-GREY-Diagram 1.webp",
-    "데이터 블록.md",
-    "클로저.md",
-    "Flyweight 패턴.md",
-    "닷넷 프레임워크.md",
-    "Ruby on Rails.md",
-    "식별자.md",
-    "Null.md",
+    "시계열 데이터.md",
+    "시계열.md",
+    "InfluxData.md",
+    "Telegraf.md",
+    "Go.md",
+    "Telegraf 목적지.md",
     "TOML.md",
-    "디자인 패턴.md",
-    "익명 함수.md",
-    "AOS.md",
-    "RISC.md",
+    "YAML.md",
     "직렬화.md",
+    "YML.md",
     "XML.md",
-    "프로그래밍 언어의 Swift.md",
+    "JSON.md",
+    "데이터독.md",
+    "모니터링 시스템.md",
+    "New Relic.md",
+    "Grafana.md",
+    "Datadog.md",
+    "Nagios.md",
+    "ELK 스택.md",
+    "Prometheus.md",
+    "TICK 스택.md",
     "C Sharp.md",
-    "소프트웨어 프레임워크.md",
-    "MVC 패턴.md",
-    "오픈스택의 Swift.md",
-    "Ruby.md",
+    "메트릭.md",
+    "Telegraf-GREY-Diagram 1.webp",
     "Telegraf-GREY-Diagram.webp",
     "무제 파일.canvas",
     "HTTP",

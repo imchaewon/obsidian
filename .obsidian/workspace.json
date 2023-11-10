@@ -14,13 +14,13 @@
               "type": "markdown",
               "state": {
                 "file": "tech/Elastic Stack.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7df658331fc82e1f",
+            "id": "6d821a16ca247a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,12 +161,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7df658331fc82e1f",
+  "active": "6d821a16ca247a57",
   "lastOpenFiles": [
+    "tech/Elastic Stack.md",
+    "tech/프로메테우스.md",
+    "tech/시각화.md",
+    "tech/Grafana.md",
+    "tech/대시보드.md",
+    "tech/오픈소스.md",
+    "tech/모니터링.md",
+    "tech/모니터링 시스템.md",
     "tech/Beats.md",
     "tech/Filebeat.md",
     "tech/Metricbeat.md",
-    "tech/Elastic Stack.md",
     "tech/대분류/회사.md",
     "tech/타임 시리즈 데이터베이스.md",
     "tech/스위프트.md",
@@ -183,13 +190,6 @@
     "tech/식별자.md",
     "tech/Null.md",
     "tech/TOML.md",
-    "tech/디자인 패턴.md",
-    "tech/익명 함수.md",
-    "tech/AOS.md",
-    "tech/RISC.md",
-    "tech/직렬화.md",
-    "tech/XML.md",
-    "tech/프로그래밍 언어의 Swift.md",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
     "tech/32d0482c-9021-4960-8acd-43fad101e012.png",
