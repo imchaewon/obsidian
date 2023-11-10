@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "베이그런",
+                "query": "beats",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4f84f3ff0e919325",
+  "active": "98d5569aca69b519",
   "lastOpenFiles": [
     "tech/타임 시리즈 데이터베이스.md",
     "tech/스위프트.md",
