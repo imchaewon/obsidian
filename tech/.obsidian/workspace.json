@@ -80,6 +80,150 @@
             }
           },
           {
+            "id": "6af8664eb8a5b71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3326884a22f65c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "저급 언어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "882343fbb9ae337f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "어셈블리어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b82b6943b0faba45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd56ed215be6e6d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "레지스터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa9a35752022e2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3361782a0a669e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da12404b87fb479b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인터럽트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f09d124a8f606d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "메커니즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ea498e55597ede1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "레지스터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ba05edbbb357e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a0dd2cb99671f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C샵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7fb7349b237950a",
             "type": "leaf",
             "state": {
@@ -128,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -195,7 +339,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임베디드.md",
+                "file": "CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임베디드.md",
+                "file": "CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임베디드.md"
+                "file": "CPU.md"
               }
             }
           }
@@ -256,34 +400,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "26294550e0b45adf",
+  "active": "fa9a35752022e2e7",
   "lastOpenFiles": [
+    "CISC.md",
+    "CPU.md",
+    "버스.md",
+    "레지스터.md",
+    "인터럽트.md",
+    "메커니즘.md",
+    "캐시 메모리.md",
+    "ALU.md",
+    "어셈블리어.md",
+    "컴퓨터 아키텍처.md",
+    "컴퓨터 시스템.md",
+    "아키텍처.md",
+    "저급 언어.md",
+    "고급 언어.md",
+    "C샵.md",
+    "무제 파일 7.md",
+    "C.md",
+    "기계어.md",
+    "임베디드 시스템.md",
+    "임베디드.md",
     "명령형 프로그래밍.md",
     "선언형 프로그래밍.md",
-    "임베디드.md",
-    "C.md",
     "대분류/Java.md",
     "대분류/Python.md",
     "C++.md",
     "SQL.md",
-    "RDBMS.md",
-    "관계형 데이터베이스.md",
-    "무결성.md",
-    "일관성.md",
-    "RDB.md",
-    "데이터베이스.md",
-    "DB.md",
-    "소프트웨어 시스템.md",
-    "스트림.md",
-    "stream.md",
-    "함수형 프로그래밍.md",
-    "명령문.md",
-    "선언적 프로그래밍.md",
-    "리액티브 프로그래밍.md",
-    "프로그래밍 패러다임.md",
-    "패러다임.md",
-    "선언형 프로그래밍 패러다임.md",
-    "Spring WebFlux.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
