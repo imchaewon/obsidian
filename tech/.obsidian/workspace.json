@@ -4,395 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae1c10cf6f60adc",
+        "id": "07c66697fa1608b4",
         "type": "tabs",
         "children": [
           {
-            "id": "a57028c4120ebfc5",
+            "id": "3e3cc3edbd9fd059",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vSphere.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c6dca9f6625723b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMware.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "473ebe67d6cb42f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K8s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd5eca950fffd7a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클러스터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49404e73f481e628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "동기화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "016eab20fb3b8954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "동기화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbe3c2336ba0f5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b501eb8197c45b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "구글.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e83e9c78920221b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNCF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63b832861cb6304c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 네이티브 솔루션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e7a8ce8563fd7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 플랫폼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe53e7ffe168bfbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IBM Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18bf759c1e58a995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 컴퓨팅 플랫폼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acfe4d447ef80c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 플랫폼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c24ef2aabb7a6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 플랫폼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7d9d616660dc3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨팅 자원.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d9a8602b3c0555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "아마존 닷컴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8c5e049fa12e5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨팅 자원.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b66b58785e49f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전통적인 IT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "398b43d3cfb2c39d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c1180cdb86af678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "361f3cab73b730b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a345603acefded16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클라우드 컴퓨팅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4d721b8e4f2d71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMware Cloud.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2db52ed5a0aadb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84e7ceca76bd6a44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴포넌트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c078360599cce417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon RDS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ce907760136aad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon EC2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b490aeaf8a6cb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b2a1b05d014656d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMware Workstation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b55bf449220db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ESXi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13641e1b768e0f2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vSphere.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -421,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "네트워크 호스팅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -459,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동기화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동기화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -498,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "동기화.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -520,8 +139,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "49404e73f481e628",
+  "active": "3e3cc3edbd9fd059",
   "lastOpenFiles": [
+    "프로세서.md",
+    "확장성.md",
+    "내결함성.md",
+    "분산.md",
     "구조화.md",
     "계층 구조.md",
     "신뢰성.md",
@@ -544,10 +167,6 @@
     "EOS.md",
     "클라우드 배포.md",
     "소프트웨어 배포 모델.md",
-    "소프트웨어 배포 모겔.md",
-    "무제 파일 6.md",
-    "배포 모델.md",
-    "클러스터.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
