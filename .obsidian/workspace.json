@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Filebeat.md",
+                "file": "tech/Beats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d901ef8c26af3227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/이벤트 로그.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff527c2de3ef293b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/데이터.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Filebeat.md",
+                "file": "tech/데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/Filebeat.md",
+                "file": "tech/데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/Filebeat.md"
+                "file": "tech/데이터.md"
               }
             }
           }
@@ -148,11 +173,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "585b55c3d04c48a6",
+  "active": "ff527c2de3ef293b",
   "lastOpenFiles": [
+    "tech/이벤트 로그.md",
+    "tech/파일.md",
+    "tech/데이터.md",
+    "tech/Beats.md",
     "tech/데이터 수집 에이전트.md",
-    "tech/Filebeat.md",
     "tech/Metricbeat.md",
+    "tech/Filebeat.md",
+    "tech/저장소.md",
+    "tech/웹 서버.md",
     "tech/Telegraf.md",
     "tech/Telegraf 목적지.md",
     "tech/Telegraf 입력 플러그인.md",
@@ -170,12 +201,6 @@
     "tech/디스크.md",
     "tech/로그 파일.md",
     "tech/시스템 리소스 메트릭.md",
-    "tech/메모리 사용량.md",
-    "tech/메모리.md",
-    "tech/모니터링.md",
-    "tech/메트릭.md",
-    "tech/데이터 소스.md",
-    "tech/파일 시스템.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
