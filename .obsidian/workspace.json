@@ -11,11 +11,28 @@
             "id": "4f84f3ff0e919325",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tech/Elastic Stack.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7df658331fc82e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/프로메테우스.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beats",
+                "query": "프로메테",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tech/프로메테우스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tech/프로메테우스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tech/프로메테우스.md"
+              }
             }
           }
         ]
@@ -140,8 +161,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98d5569aca69b519",
+  "active": "7df658331fc82e1f",
   "lastOpenFiles": [
+    "tech/Beats.md",
+    "tech/Filebeat.md",
+    "tech/Metricbeat.md",
+    "tech/Elastic Stack.md",
+    "tech/대분류/회사.md",
     "tech/타임 시리즈 데이터베이스.md",
     "tech/스위프트.md",
     "tech/블록 주소.md",
@@ -164,11 +190,6 @@
     "tech/직렬화.md",
     "tech/XML.md",
     "tech/프로그래밍 언어의 Swift.md",
-    "tech/C Sharp.md",
-    "tech/소프트웨어 프레임워크.md",
-    "tech/MVC 패턴.md",
-    "tech/오픈스택의 Swift.md",
-    "tech/Ruby.md",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
     "tech/32d0482c-9021-4960-8acd-43fad101e012.png",
