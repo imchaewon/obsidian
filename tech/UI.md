@@ -5,4 +5,4 @@
 
 ## 종류
 1. [[GUI]] 
-2. **텍스트 기반 사용자 인터페이스 (TUI - Text-based User Interface 또는 CUI - Character-based User Interface):** 텍스트 기반 사용자 인터페이스는 명령줄 인터페이스 (Command Line Interface, [[CLI]])와 같이 텍스트를 사용하여 상호 작용하는 방식을 말합니다. 터미널, 콘솔 등에서 사용자가 명령어를 입력하고 결과를 텍스트로 확인하는 형태가 있습니다.
+2. [[TUI]]

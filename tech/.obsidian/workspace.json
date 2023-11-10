@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "504a2f642339879e",
+        "id": "f5ef77dbf1307f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "e10ec7c2f2bc0c3b",
+            "id": "478447be3733014c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,127 +20,19 @@
             }
           },
           {
-            "id": "cbe405a937eadfa8",
+            "id": "8ea237dd0c8b6145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "리액티브 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58e96ef89f0a16dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "함수형 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a07f538cdba1d634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍 패러다임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50ae2d0830dac738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리액티브 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d15f62dbd4f331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스트림.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c572d2d476cf3458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터 스트림.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b39420b2d57d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스트림 처리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3c527cdc256dc5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "055f937ee1bcd3c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab09b61248fb0f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이벤트 핸들러.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spring webflux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI.md",
+                "file": "리액티브 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI.md",
+                "file": "리액티브 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI.md"
+                "file": "리액티브 프로그래밍.md"
               }
             }
           }
@@ -268,34 +160,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c3c527cdc256dc5c",
+  "active": "8ea237dd0c8b6145",
   "lastOpenFiles": [
+    "Spring WebFlux.md",
+    "리액티브 프로그래밍.md",
+    "프레임워크.md",
+    "대분류/Spring.md",
+    "시스템.md",
+    "vSphere.md",
+    "프로그래밍 패러다임.md",
+    "스트림.md",
+    "데이터 스트림.md",
+    "스트림 처리.md",
+    "UI.md",
+    "TUI.md",
+    "CLI.md",
+    "콘솔.md",
+    "터미널.md",
+    "명령어 인터페이스.md",
+    "명령 프롬프트.md",
+    "macOS.md",
+    "리눅스.md",
+    "Linux.md",
+    "CUI.md",
     "GUI.md",
     "애플리케이션.md",
     "인터페이스.md",
-    "UI.md",
-    "스트림 처리.md",
     "도메인.md",
     "소프트웨어 공학에서의 도메인.md",
-    "인터넷 도메인.md",
-    "파라미터.md",
-    "대용량 데이터셋.md",
-    "실시간 이벤트.md",
-    "웹 애플리케이션.md",
-    "CSS.md",
-    "HTML.md",
-    "대분류/Javascript.md",
-    "플랫폼.md",
-    "사용자 인터페이스.md",
-    "데이터 스트림.md",
-    "스트림.md",
-    "리액티브 프로그래밍.md",
-    "비동기.md",
-    "프로그래밍.md",
-    "인자.md",
-    "인수.md",
-    "인자값.md",
-    "메소드.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
