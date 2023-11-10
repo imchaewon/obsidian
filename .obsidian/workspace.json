@@ -26,7 +26,43 @@
               "type": "markdown",
               "state": {
                 "file": "tech/Telegraf.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "414e83fd585fb8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/MongoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be7e616d61415fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/NoSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "158cee8ec11a4d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/MongoDB.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -44,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beats.",
+                "query": "JSON.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Telegraf.md",
+                "file": "tech/NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/Telegraf.md",
+                "file": "tech/NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/Telegraf.md"
+                "file": "tech/NoSQL.md"
               }
             }
           }
@@ -173,10 +209,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d3315a3bfd61b6d8",
+  "active": "be7e616d61415fd7",
   "lastOpenFiles": [
-    "tech/데이터 수집 에이전트.md",
+    "tech/MongoDB.md",
+    "tech/NoSQL.md",
     "tech/Telegraf.md",
+    "tech/대분류/PostgreSQL.md",
+    "tech/JSON.md",
+    "tech/API.md",
+    "tech/SNMP.md",
+    "tech/데이터 수집 에이전트.md",
     "tech/Grafana.md",
     "tech/그라파나.md",
     "tech/Beats.md",
@@ -195,12 +237,6 @@
     "tech/에이전트.md",
     "tech/Elastic Stack.md",
     "tech/대분류/회사.md",
-    "tech/시각화.md",
-    "tech/대시보드.md",
-    "tech/오픈소스.md",
-    "tech/모니터링.md",
-    "tech/Metricbeat.md",
-    "tech/타임 시리즈 데이터베이스.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
