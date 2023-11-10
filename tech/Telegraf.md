@@ -19,7 +19,7 @@
 - **데이터베이스**: Telegraf는 여러 데이터베이스에서 데이터를 수집할 수 있습니다. [[InfluxDB]], [[MySQL]], [[PostgreSQL]], [[MongoDB]], [[Redis]] 등에서 데이터베이스 메트릭을 수집할 수 있음
 - **네트워크 장비**: SNMP (Simple Network Management Protocol)을 사용하여 라우터, 스위치, 서버 등의 네트워크 장비에서 메트릭을 수집할 수 있음
 - **클라우드 서비스**: Telegraf는 클라우드 서비스인 AWS, Google Cloud Platform, Azure 등에서 메트릭을 수집할 수 있음
-- **웹 서비스**: HTTP, JSON, XML 등의 웹 서비스로부터 데이터를 수집할 수 있음
+- **웹 서비스**: [[HTTP]], [[JSON]], [[XML]] 등의 웹 서비스로부터 데이터를 수집할 수 있음
 - **컨테이너화된 환경**: Docker, Kubernetes와 같은 컨테이너 환경에서 컨테이너 메트릭을 수집할 수 있음
 
 여러 데이터베이스([[InfluxDB]] 등), 서버, 네트워크 장치 및 다양한 데이터 소스에서 [[메트릭]], 로그 데이터를 수집하고 특정[[Telegraf 목적지]]로 전송함
