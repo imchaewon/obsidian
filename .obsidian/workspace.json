@@ -4,125 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9014fadc97b1c765",
+        "id": "27aa6284c7bbaacd",
         "type": "tabs",
         "children": [
           {
-            "id": "4f84f3ff0e919325",
+            "id": "585b55c3d04c48a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Telegraf 입력 플러그인.md",
+                "file": "tech/Filebeat.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e0ce71231001ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/인폴매션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8253bddcdb845bc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/트랩.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e38d5c5cfad69134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/MP3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a44f7c53c91897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/MP4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faee5f17a2886ad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/PNG.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "165951fce8d04b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/JPEG.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96add5753aef199b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/PNG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91af46b43cccbd5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/CSV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6496a63565d3c9a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/XML.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -156,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "모니터링.",
+                "query": "대상.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Telegraf 입력 플러그인.md",
+                "file": "tech/Filebeat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/Telegraf 입력 플러그인.md",
+                "file": "tech/Filebeat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/Telegraf 입력 플러그인.md"
+                "file": "tech/Filebeat.md"
               }
             }
           }
@@ -256,34 +148,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4f84f3ff0e919325",
+  "active": "585b55c3d04c48a6",
   "lastOpenFiles": [
+    "tech/데이터 수집 에이전트.md",
+    "tech/Filebeat.md",
+    "tech/Metricbeat.md",
     "tech/Telegraf.md",
+    "tech/Telegraf 목적지.md",
     "tech/Telegraf 입력 플러그인.md",
+    "tech/Telegraf 대상.md",
+    "tech/XML.md",
+    "tech/CSV.md",
+    "tech/PNG.md",
+    "tech/JPEG.md",
+    "tech/MP4.md",
+    "tech/MP3.md",
+    "tech/트랩.md",
+    "tech/inform.md",
+    "tech/SNMP.md",
+    "tech/인폴매션.md",
+    "tech/디스크.md",
+    "tech/로그 파일.md",
     "tech/시스템 리소스 메트릭.md",
     "tech/메모리 사용량.md",
     "tech/메모리.md",
     "tech/모니터링.md",
     "tech/메트릭.md",
     "tech/데이터 소스.md",
-    "tech/로그 파일.md",
     "tech/파일 시스템.md",
-    "tech/소프트웨어 응용 프로그램.md",
-    "tech/응용 프로그램.md",
-    "tech/소스.md",
-    "tech/다양한 대상.md",
-    "tech/Grafana.md",
-    "tech/Redis.md",
-    "tech/클러스터링.md",
-    "tech/단일 시스템.md",
-    "tech/그룹화.md",
-    "tech/클라이언트-서버 모델.md",
-    "tech/인폴매션.md",
-    "tech/Telegraf 와 Beats의 차이.md",
-    "tech/메트릭 데이터베이스.md",
-    "tech/타임 시리즈 데이터베이스.md",
-    "tech/플러그인.md",
-    "tech/확장성.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",

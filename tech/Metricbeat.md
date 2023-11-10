@@ -5,3 +5,25 @@
 Metricbeat는 다양한 메트릭 데이터, 예를 들면 CPU 사용률, 메모리 사용률, 디스크 사용률, 네트워크 활동 및 다른 성능 지표를 실시간으로 수집하고 Elastic Stack의 다른 구성 요소 중 하나인 Elasticsearch에 전송함
 
 Metricbeat는 [[Elastic Stack]]의 일부로 사용되며, 주로 [[Elasticsearch]], [[Logstash]], [[Kibana]] 와 통합하여 사용됨
+
+## Metricbeat 수집 데이터 유형
+
+1. **시스템 메트릭**: CPU 사용률, 메모리 사용량, 디스크 공간, 네트워크 트래픽, 부하 등 시스템 성능과 상태에 관련된 데이터를 수집함
+    
+2. **서비스 메트릭**: 웹 서버, 데이터베이스, 캐싱 서버 등과 같은 다양한 서비스의 성능 지표를 수집함
+    
+3. **컨테이너 메트릭**: Docker, Kubernetes 등 컨테이너 환경에서의 리소스 사용, 성능 등을 모니터링할 수 있음
+    
+4. **클라우드 플랫폼 메트릭**: AWS, Azure, GCP와 같은 클라우드 플랫폼에서의 리소스 사용량, 인스턴스 상태 등을 수집함
+    
+
+
+    
+
+## Beats 의 데이터 전송 목적지 유형
+
+1. **Elasticsearch**: 기본적으로 beats는 수집한 메트릭 데이터를 Elasticsearch로 전송하여 저장, 검색, 분석 및 시각화에 활용함
+    
+2. **Logstash**: beats는 Logstash로 메트릭 데이터를 전송할 수 있음. Logstash는 데이터를 가공하거나 다른 대상으로 전송하는 역할을 함
+    
+3. **다른 출력(Output) 옵션**: beats는 Kafka, Redis, Amazon S3, MySQL, PostgreSQL 등과 같은 다른 출력 옵션을 통해 메트릭 데이터를 다양한 대상으로 전송할 수 있음
