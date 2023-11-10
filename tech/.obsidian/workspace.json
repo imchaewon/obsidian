@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "ea887cd87cad253b",
+        "id": "504a2f642339879e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1ae52db551fa3e",
+            "id": "e10ec7c2f2bc0c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨팅 모델.md",
+                "file": "Spring WebFlux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "05995d8959bf453d",
+            "id": "cbe405a937eadfa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "클라우드 컴퓨팅 모델.md",
+                "file": "리액티브 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a72dc74dbf51b9a",
+            "id": "09fd7bab25df9e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOA.md",
+                "file": "프로그래밍 모델.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a2d58052231eec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로시저.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "718b3fd8d56598b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "서브루틴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOA.md",
+                "file": "서브루틴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOA.md",
+                "file": "서브루틴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOA.md"
+                "file": "서브루틴.md"
               }
             }
           }
@@ -171,11 +195,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a72dc74dbf51b9a",
+  "active": "718b3fd8d56598b0",
   "lastOpenFiles": [
-    "클라우드 컴퓨팅 모델.md",
+    "호출.md",
+    "함수.md",
+    "서브루틴.md",
+    "프로시저.md",
+    "프로그래밍 모델.md",
+    "리액티브 프로그래밍.md",
+    "Spring WebFlux.md",
+    "SpringWebflux.md",
+    "클라이언트-서버 모델.md",
     "컴퓨팅 모델.md",
+    "엣지 컴퓨팅 모델.md",
+    "분산 컴퓨팅 모델.md",
+    "클라우드 컴퓨팅.md",
     "SOA.md",
+    "엣지 컴퓨팅.md",
+    "클라우드 컴퓨팅 모델.md",
+    "재사용성.md",
+    "비용.md",
     "프로세서.md",
     "CPU.md",
     "알고리즘.md",
@@ -184,21 +223,6 @@
     "Scale-up.md",
     "스케일 아웃.md",
     "Scale-out.md",
-    "분산 컴퓨팅.md",
-    "분산 시스템.md",
-    "일관성.md",
-    "세션.md",
-    "분산 컴퓨팅 모델.md",
-    "모델.md",
-    "시스템.md",
-    "클라이언트-서버 모델.md",
-    "아키텍처.md",
-    "vSphere.md",
-    "가상 머신.md",
-    "스토리지.md",
-    "가용성.md",
-    "분산.md",
-    "노드.md",
     "무제 파일.canvas",
     "HTTP",
     "TCP",
