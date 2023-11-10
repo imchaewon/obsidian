@@ -32,55 +32,19 @@
             }
           },
           {
-            "id": "414e83fd585fb8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be7e616d61415fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/NoSQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "158cee8ec11a4d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "92ac16baacd374f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Beats.md",
+                "file": "tech/Heartbeat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/NoSQL.md",
+                "file": "tech/Heartbeat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/NoSQL.md",
+                "file": "tech/Heartbeat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/NoSQL.md"
+                "file": "tech/Heartbeat.md"
               }
             }
           }
@@ -209,11 +173,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "be7e616d61415fd7",
+  "active": "92ac16baacd374f7",
   "lastOpenFiles": [
-    "tech/MongoDB.md",
-    "tech/NoSQL.md",
+    "tech/메커니즘.md",
+    "tech/Heartbeat.md",
     "tech/Telegraf.md",
+    "tech/Beats.md",
+    "tech/MongoDB.md",
+    "tech/스키마.md",
+    "tech/DBMS.md",
+    "tech/Cassandra.md",
+    "tech/Hadoop.md",
+    "tech/Tomcat.md",
+    "tech/Apache Software Foundation.md",
+    "tech/ASF.md",
+    "tech/Microsoft SQL Server.md",
+    "tech/RDB.md",
+    "tech/RDBMS.md",
+    "tech/NoSQL.md",
     "tech/대분류/PostgreSQL.md",
     "tech/JSON.md",
     "tech/API.md",
@@ -221,22 +198,9 @@
     "tech/데이터 수집 에이전트.md",
     "tech/Grafana.md",
     "tech/그라파나.md",
-    "tech/Beats.md",
     "tech/Kibana.md",
     "tech/대용량 데이터셋.md",
     "tech/ELK Stack.md",
-    "tech/Telegraf 목적지.md",
-    "tech/프로메테우스.md",
-    "tech/Prometheus.md",
-    "tech/모니터링 시스템.md",
-    "tech/Agent.md",
-    "tech/소스.md",
-    "tech/중앙 시스템.md",
-    "tech/Filebeat.md",
-    "tech/Agentless.md",
-    "tech/에이전트.md",
-    "tech/Elastic Stack.md",
-    "tech/대분류/회사.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
