@@ -2,7 +2,7 @@
 
 주로 [[메트릭]] 데이터를 수집하고 다양한 [[데이터베이스]]나 [[모니터링 시스템]]으로 전송하기 위해 사용됨
 
-[다양한 입력 플러그인](https://okestro.atlassian.net/wiki/spaces/6/pages/1365934143/Telegraf+Beat#Telegraf%EC%9D%98-%EB%A1%9C%EA%B7%B8-%EC%9E%85%EB%A0%A5-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8 "#Telegraf의-로그-입력-플러그인")을 통해 여러 데이터 소스에서 데이터를 수집할 수 있음
+다양한 [[Telegraf 입력 플러그인]]을 통해 여러 데이터 소스에서 데이터를 수집할 수 있음
 
 수집한 데이터를 다양한 출력 플러그인을 통해 다양한 형식으로 [다양한 대상](https://okestro.atlassian.net/wiki/spaces/6/pages/1365934143/Telegraf+Beat#Telegrag-%EB%AA%A9%EC%A0%81%EC%A7%80-%EC%9C%A0%ED%98%95 "#Telegrag-목적지-유형")에 전송할 수 있음
 
