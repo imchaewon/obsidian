@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "27aa6284c7bbaacd",
+        "id": "b802297d93509363",
         "type": "tabs",
         "children": [
           {
-            "id": "585b55c3d04c48a6",
+            "id": "e3df1c61184d1103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/Beats.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d901ef8c26af3227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/이벤트 로그.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff527c2de3ef293b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/데이터.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tech/데이터.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,15 +140,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ff527c2de3ef293b",
+  "active": "e3df1c61184d1103",
   "lastOpenFiles": [
-    "tech/이벤트 로그.md",
-    "tech/파일.md",
-    "tech/데이터.md",
     "tech/Beats.md",
-    "tech/데이터 수집 에이전트.md",
-    "tech/Metricbeat.md",
+    "tech/파싱.md",
+    "tech/구조화.md",
+    "tech/쿼리.md",
+    "tech/마크업 언어.md",
+    "tech/Elastic.md",
     "tech/Filebeat.md",
+    "tech/Metricbeat.md",
+    "tech/대분류/Elasticsearch.md",
+    "tech/메트릭.md",
+    "tech/이벤트 로그.md",
+    "tech/데이터.md",
+    "tech/파일.md",
+    "tech/데이터 수집 에이전트.md",
     "tech/저장소.md",
     "tech/웹 서버.md",
     "tech/Telegraf.md",
@@ -194,13 +168,6 @@
     "tech/JPEG.md",
     "tech/MP4.md",
     "tech/MP3.md",
-    "tech/트랩.md",
-    "tech/inform.md",
-    "tech/SNMP.md",
-    "tech/인폴매션.md",
-    "tech/디스크.md",
-    "tech/로그 파일.md",
-    "tech/시스템 리소스 메트릭.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
