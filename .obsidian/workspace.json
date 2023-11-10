@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/데이터 수집 에이전트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40200781af57edcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/프로메테우스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1146bb0948855909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/Prometheus.md",
+                "file": "tech/Telegraf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Prometheus.md",
+                "file": "tech/Telegraf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/Prometheus.md",
+                "file": "tech/Telegraf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/Prometheus.md"
+                "file": "tech/Telegraf.md"
               }
             }
           }
@@ -173,12 +148,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1146bb0948855909",
+  "active": "4f84f3ff0e919325",
   "lastOpenFiles": [
-    "tech/모니터링 시스템.md",
-    "tech/Prometheus.md",
-    "tech/프로메테우스.md",
     "tech/데이터 수집 에이전트.md",
+    "tech/프로메테우스.md",
+    "tech/Prometheus.md",
+    "tech/모니터링 시스템.md",
     "tech/Agent.md",
     "tech/소스.md",
     "tech/중앙 시스템.md",
