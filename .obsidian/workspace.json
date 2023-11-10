@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/프로메테우스.md",
+                "file": "tech/Agent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d22daba75cfc8b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/데이터 수집 에이전트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프로메테",
+                "query": "에이전트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/프로메테우스.md",
+                "file": "tech/데이터 수집 에이전트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/프로메테우스.md",
+                "file": "tech/데이터 수집 에이전트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/프로메테우스.md"
+                "file": "tech/데이터 수집 에이전트.md"
               }
             }
           }
@@ -148,20 +161,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4f84f3ff0e919325",
+  "active": "d22daba75cfc8b05",
   "lastOpenFiles": [
-    "tech/Elastic Stack.md",
-    "tech/프로메테우스.md",
     "tech/Beats.md",
+    "tech/데이터 수집 에이전트.md",
+    "tech/Agent.md",
+    "tech/Agentless.md",
+    "tech/에이전트.md",
+    "tech/모니터링 시스템.md",
+    "tech/프로메테우스.md",
+    "tech/Elastic Stack.md",
+    "tech/대분류/회사.md",
     "tech/시각화.md",
     "tech/Grafana.md",
     "tech/대시보드.md",
     "tech/오픈소스.md",
     "tech/모니터링.md",
-    "tech/모니터링 시스템.md",
     "tech/Filebeat.md",
     "tech/Metricbeat.md",
-    "tech/대분류/회사.md",
     "tech/타임 시리즈 데이터베이스.md",
     "tech/스위프트.md",
     "tech/블록 주소.md",
@@ -173,10 +190,6 @@
     "tech/클로저.md",
     "tech/Flyweight 패턴.md",
     "tech/닷넷 프레임워크.md",
-    "tech/Ruby on Rails.md",
-    "tech/식별자.md",
-    "tech/Null.md",
-    "tech/TOML.md",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
     "tech/32d0482c-9021-4960-8acd-43fad101e012.png",
