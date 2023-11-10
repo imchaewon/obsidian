@@ -13,19 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Grafana.md",
+                "file": "tech/Telegraf.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d3315a3bfd61b6d8",
+            "id": "9b12c600a61bd88d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Telegraf.md",
+                "file": "tech/데이터 소스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71e496d2a443c8cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/로그 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3de2cf5ef93b2493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/소프트웨어 응용 프로그램.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/Telegraf.md",
+                "file": "tech/소프트웨어 응용 프로그램.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/Telegraf.md",
+                "file": "tech/소프트웨어 응용 프로그램.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/Telegraf.md"
+                "file": "tech/소프트웨어 응용 프로그램.md"
               }
             }
           }
@@ -268,10 +292,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d3315a3bfd61b6d8",
+  "active": "3de2cf5ef93b2493",
   "lastOpenFiles": [
-    "tech/Grafana.md",
+    "tech/응용 프로그램.md",
+    "tech/소프트웨어 응용 프로그램.md",
+    "tech/로그 파일.md",
+    "tech/데이터 소스.md",
     "tech/Telegraf.md",
+    "tech/소스.md",
+    "tech/다양한 대상.md",
+    "tech/Grafana.md",
+    "tech/Redis.md",
+    "tech/클러스터링.md",
+    "tech/단일 시스템.md",
+    "tech/그룹화.md",
+    "tech/클라이언트-서버 모델.md",
+    "tech/인폴매션.md",
     "tech/Telegraf 와 Beats의 차이.md",
     "tech/메트릭 데이터베이스.md",
     "tech/타임 시리즈 데이터베이스.md",
@@ -282,20 +318,8 @@
     "tech/ELK 스택.md",
     "tech/Elastic Stack.md",
     "tech/SNMP.md",
-    "tech/인폴매션.md",
     "tech/매니저.md",
     "tech/SNMP의 매니저.md",
-    "tech/트랩.md",
-    "tech/Agent.md",
-    "tech/에이전트.md",
-    "tech/MP3.md",
-    "tech/XML.md",
-    "tech/포맷.md",
-    "tech/비디오 포맷.md",
-    "tech/AVI.md",
-    "tech/오디오 포맷.md",
-    "tech/MP4.md",
-    "tech/JSON.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
