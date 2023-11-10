@@ -4,275 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ef77dbf1307f7d",
+        "id": "07c66697fa1608b4",
         "type": "tabs",
         "children": [
           {
-            "id": "478447be3733014c",
+            "id": "3e3cc3edbd9fd059",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring WebFlux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c2b4a1ac6fa7ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리액티브 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdccde25fb0ea815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍 패러다임.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ea237dd0c8b6145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "선언형 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "664114ab630e69ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "명령형 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26294550e0b45adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "임베디드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6af8664eb8a5b71d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3326884a22f65c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "저급 언어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "882343fbb9ae337f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "어셈블리어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b82b6943b0faba45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd56ed215be6e6d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "레지스터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa9a35752022e2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3361782a0a669e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da12404b87fb479b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인터럽트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f09d124a8f606d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "메커니즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea498e55597ede1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "레지스터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ba05edbbb357e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ALU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a0dd2cb99671f62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C샵.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7fb7349b237950a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2471f274dd7d7e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무결성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01181e1783fa9c9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "259ddd0d34d17765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "선언형 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spring webflux",
+                "query": "네트워크 호스팅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -339,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPU.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -400,34 +139,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa9a35752022e2e7",
+  "active": "3e3cc3edbd9fd059",
   "lastOpenFiles": [
-    "CISC.md",
-    "CPU.md",
-    "버스.md",
-    "레지스터.md",
-    "인터럽트.md",
-    "메커니즘.md",
-    "캐시 메모리.md",
-    "ALU.md",
-    "어셈블리어.md",
-    "컴퓨터 아키텍처.md",
-    "컴퓨터 시스템.md",
-    "아키텍처.md",
-    "저급 언어.md",
-    "고급 언어.md",
-    "C샵.md",
-    "무제 파일 7.md",
-    "C.md",
-    "기계어.md",
-    "임베디드 시스템.md",
-    "임베디드.md",
-    "명령형 프로그래밍.md",
-    "선언형 프로그래밍.md",
-    "대분류/Java.md",
-    "대분류/Python.md",
-    "C++.md",
-    "SQL.md",
+    "타임 시리즈 데이터베이스.md",
+    "스위프트.md",
+    "블록 주소.md",
+    "Google.md",
+    "New Relic.md",
+    "객체지향.md",
+    "Telegraf-GREY-Diagram 1.webp",
+    "데이터 블록.md",
+    "클로저.md",
+    "Flyweight 패턴.md",
+    "닷넷 프레임워크.md",
+    "Ruby on Rails.md",
+    "식별자.md",
+    "Null.md",
+    "TOML.md",
+    "디자인 패턴.md",
+    "익명 함수.md",
+    "AOS.md",
+    "RISC.md",
+    "직렬화.md",
+    "XML.md",
+    "프로그래밍 언어의 Swift.md",
+    "C Sharp.md",
+    "소프트웨어 프레임워크.md",
+    "MVC 패턴.md",
+    "오픈스택의 Swift.md",
+    "Ruby.md",
+    "Telegraf-GREY-Diagram.webp",
     "무제 파일.canvas",
     "HTTP",
     "TCP",

@@ -4,8 +4,8 @@
 
 구성요소는 아래와 같음
 - **[[Telegraf]]**
-- **[[InfluxDB]]**
-- **[[Chronograf]]**
 - **[[Kapacitor]]**
+- **[[InfluxDB]]**
+- **[[Chronograf]]** → 잘 안쓰고, 주로 [[Grafana]] 를 많이 씀(시각화도구로써 기능도 더 많고 여러 데이터소스와의 접합도 좋음)
 
-
+![[Telegraf-GREY-Diagram 1.webp]]
