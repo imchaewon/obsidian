@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70fdb22d151cab9a",
+        "id": "bb0aa4db625e0cb7",
         "type": "tabs",
         "children": [
           {
-            "id": "78fedc54a1c08be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/URI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf7fecd78ce6052b",
+            "id": "e6b97472f417e85b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,105 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "49a3de80d31f301a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/쿼리 파라미터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdde3746cbff2aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/URL 파라미터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dc192ac719cf65f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/쿼리 파라미터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ec8384641f9345d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/쿼리 스트링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcccfb83bca68f4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/쿼리 파라미터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b52021c41a72128e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/패스 파라미터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b339a2fa59bff1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/대분류/CS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4fd7469c8ec6405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/대분류/CS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "쿼리",
+                "query": "http 메서드.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/쿼리 파라미터.md",
+                "file": "tech/HTTP 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/쿼리 파라미터.md",
+                "file": "tech/HTTP 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/쿼리 파라미터.md"
+                "file": "tech/HTTP 메서드.md"
               }
             }
           }
@@ -257,22 +148,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fcccfb83bca68f4b",
+  "active": "e6b97472f417e85b",
   "lastOpenFiles": [
-    "tech/쿼리 스트링.md",
+    "tech/대분류/CS.md",
+    "tech/URI.md",
+    "tech/HTTP 메서드.md",
+    "tech/패스 파라미터.md",
     "tech/쿼리 파라미터.md",
+    "tech/URL 파라미터.md",
+    "tech/쿼리 스트링.md",
     "tech/파라미터.md",
     "tech/URL.md",
-    "tech/URL 파라미터.md",
-    "tech/패스 파라미터.md",
-    "tech/대분류/CS.md",
-    "tech/HTTP 메서드.md",
     "tech/프록시.md",
     "tech/쿠키.md",
     "tech/메타데이터.md",
     "tech/데이터.md",
     "tech/CORS.md",
-    "tech/URI.md",
     "tech/행위.md",
     "tech/메서드.md",
     "tech/객체.md",
