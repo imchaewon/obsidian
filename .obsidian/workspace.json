@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "450e896a42cd5825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/행위.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aaca550fef16901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/메서드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76eec6dfd29cf6f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/객체.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe97aa0fc349f9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/상태.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07d4ad637aade0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/멤버 변수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -48,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "URI.m",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/URI.md",
+                "file": "tech/멤버 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/URI.md",
+                "file": "tech/멤버 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/URI.md"
+                "file": "tech/멤버 변수.md"
               }
             }
           }
@@ -148,10 +209,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "78fedc54a1c08be8",
+  "active": "07d4ad637aade0b8",
   "lastOpenFiles": [
-    "tech/HTTP 메서드.md",
+    "tech/속성.md",
+    "tech/OOP에서의 속성.md",
+    "tech/상태.md",
+    "tech/멤버 변수.md",
+    "tech/멤버.md",
+    "tech/객체.md",
+    "tech/메서드.md",
+    "tech/행위.md",
     "tech/URI.md",
+    "tech/메소드.md",
+    "tech/Method.md",
+    "tech/리소스.md",
+    "tech/HTTP 메서드.md",
     "tech/무제 파일 8.md",
     "tech/네트워크 통신 프로토콜.md",
     "tech/UDP.md",
@@ -165,17 +237,6 @@
     "tech/Elastic.md",
     "tech/Filebeat.md",
     "tech/Metricbeat.md",
-    "tech/대분류/Elasticsearch.md",
-    "tech/메트릭.md",
-    "tech/이벤트 로그.md",
-    "tech/데이터.md",
-    "tech/파일.md",
-    "tech/데이터 수집 에이전트.md",
-    "tech/저장소.md",
-    "tech/웹 서버.md",
-    "tech/Telegraf.md",
-    "tech/Telegraf 목적지.md",
-    "tech/Telegraf 입력 플러그인.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
