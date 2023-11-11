@@ -150,8 +150,9 @@
   },
   "active": "e6b97472f417e85b",
   "lastOpenFiles": [
-    "tech/리소스.md",
+    "tech/파일 시스템.md",
     "tech/HTTP 메서드.md",
+    "tech/리소스.md",
     "tech/대분류/CS.md",
     "tech/URI.md",
     "tech/패스 파라미터.md",
@@ -175,7 +176,6 @@
     "tech/상태.md",
     "tech/필드.md",
     "tech/OOP.md",
-    "tech/객체 지향 프로그래밍.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
