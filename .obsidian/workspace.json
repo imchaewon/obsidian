@@ -11,11 +11,40 @@
             "id": "e3df1c61184d1103",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tech/네트워크 통신 프로토콜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19a7ff38e95c536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/네트워크 통신 프로토콜.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "343d3e708fe394cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/UDP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "대상.m",
+                "query": "udp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tech/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tech/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tech/UDP.md"
+              }
             }
           }
         ]
@@ -140,8 +173,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e3df1c61184d1103",
+  "active": "343d3e708fe394cc",
   "lastOpenFiles": [
+    "tech/네트워크 통신 프로토콜.md",
+    "tech/UDP.md",
+    "tech/TCP.md",
+    "tech/HTTP.md",
     "tech/Beats.md",
     "tech/파싱.md",
     "tech/구조화.md",
@@ -164,10 +201,6 @@
     "tech/Telegraf 대상.md",
     "tech/XML.md",
     "tech/CSV.md",
-    "tech/PNG.md",
-    "tech/JPEG.md",
-    "tech/MP4.md",
-    "tech/MP3.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
