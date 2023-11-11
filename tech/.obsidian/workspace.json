@@ -258,6 +258,8 @@
   },
   "active": "93f1f4a2afd6de61",
   "lastOpenFiles": [
+    "표준화.md",
+    "수집.md",
     "데이터 처리 프로세스.md",
     "패스 파라미터.md",
     "URL 파라미터.md",
@@ -282,8 +284,6 @@
     "파일.md",
     "이벤트 로그.md",
     "Telegraf 대상.md",
-    "inform.md",
-    "디스크.md",
     "Telegraf-GREY-Diagram 1.webp",
     "Telegraf-GREY-Diagram.webp",
     "무제 파일.canvas",

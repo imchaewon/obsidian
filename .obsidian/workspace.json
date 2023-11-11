@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "70df35ecafbbfc55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/데이터 처리 프로세스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/데이터 처리 프로세스.md",
+                "file": "tech/HTTP 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/데이터 처리 프로세스.md",
+                "file": "tech/HTTP 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/데이터 처리 프로세스.md"
+                "file": "tech/HTTP 메서드.md"
               }
             }
           }
@@ -161,10 +148,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "70df35ecafbbfc55",
+  "active": "e6b97472f417e85b",
   "lastOpenFiles": [
-    "tech/HTTP 메서드.md",
     "tech/데이터 처리 프로세스.md",
+    "tech/표준화.md",
+    "tech/수집.md",
+    "tech/HTTP 메서드.md",
     "tech/데이터 블록.md",
     "tech/파일 시스템.md",
     "tech/리소스.md",
@@ -187,8 +176,6 @@
     "tech/멤버 변수.md",
     "tech/속성.md",
     "tech/OOP에서의 속성.md",
-    "tech/식별자.md",
-    "tech/상태.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
