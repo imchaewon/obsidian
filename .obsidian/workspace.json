@@ -44,6 +44,66 @@
             }
           },
           {
+            "id": "cdde3746cbff2aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/URL 파라미터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dc192ac719cf65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/쿼리 파라미터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ec8384641f9345d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/쿼리 스트링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcccfb83bca68f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/쿼리 파라미터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b52021c41a72128e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/패스 파라미터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4b339a2fa59bff1e",
             "type": "leaf",
             "state": {
@@ -68,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -135,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/대분류/CS.md",
+                "file": "tech/쿼리 파라미터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/대분류/CS.md",
+                "file": "tech/쿼리 파라미터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/대분류/CS.md"
+                "file": "tech/쿼리 파라미터.md"
               }
             }
           }
@@ -197,12 +257,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b339a2fa59bff1e",
+  "active": "fcccfb83bca68f4b",
   "lastOpenFiles": [
     "tech/쿼리 스트링.md",
     "tech/쿼리 파라미터.md",
-    "tech/HTTP 메서드.md",
+    "tech/파라미터.md",
+    "tech/URL.md",
+    "tech/URL 파라미터.md",
+    "tech/패스 파라미터.md",
     "tech/대분류/CS.md",
+    "tech/HTTP 메서드.md",
     "tech/프록시.md",
     "tech/쿠키.md",
     "tech/메타데이터.md",
@@ -221,10 +285,6 @@
     "tech/OOP.md",
     "tech/객체 지향 프로그래밍.md",
     "tech/멤버.md",
-    "tech/Field.md",
-    "tech/메소드.md",
-    "tech/Method.md",
-    "tech/리소스.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",

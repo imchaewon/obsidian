@@ -258,6 +258,8 @@
   },
   "active": "93f1f4a2afd6de61",
   "lastOpenFiles": [
+    "패스 파라미터.md",
+    "URL 파라미터.md",
     "쿼리 스트링.md",
     "쿼리 파라미터.md",
     "쿠키.md",
@@ -282,8 +284,6 @@
     "inform.md",
     "디스크.md",
     "Telegraf 입력 플러그인.md",
-    "메모리.md",
-    "메모리 사용량.md",
     "Telegraf-GREY-Diagram 1.webp",
     "Telegraf-GREY-Diagram.webp",
     "무제 파일.canvas",
