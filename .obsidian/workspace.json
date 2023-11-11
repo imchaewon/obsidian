@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b802297d93509363",
+        "id": "70fdb22d151cab9a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3df1c61184d1103",
+            "id": "78fedc54a1c08be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/네트워크 통신 프로토콜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b19a7ff38e95c536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/네트워크 통신 프로토콜.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "343d3e708fe394cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/UDP.md",
+                "file": "tech/URI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "udp",
+                "query": "URI.m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/UDP.md",
+                "file": "tech/URI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/UDP.md",
+                "file": "tech/URI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/UDP.md"
+                "file": "tech/URI.md"
               }
             }
           }
@@ -173,8 +148,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "343d3e708fe394cc",
+  "active": "78fedc54a1c08be8",
   "lastOpenFiles": [
+    "tech/HTTP 메서드.md",
+    "tech/URI.md",
+    "tech/무제 파일 8.md",
     "tech/네트워크 통신 프로토콜.md",
     "tech/UDP.md",
     "tech/TCP.md",
@@ -198,9 +176,6 @@
     "tech/Telegraf.md",
     "tech/Telegraf 목적지.md",
     "tech/Telegraf 입력 플러그인.md",
-    "tech/Telegraf 대상.md",
-    "tech/XML.md",
-    "tech/CSV.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
