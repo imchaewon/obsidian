@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5a2bb8ad0121c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "http 메서드.",
+                "query": "HTTP.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,15 +162,16 @@
   },
   "active": "e6b97472f417e85b",
   "lastOpenFiles": [
+    "tech/HTTP.md",
+    "tech/HTTP 메서드.md",
+    "tech/URI.md",
     "tech/데이터 처리 프로세스.md",
     "tech/표준화.md",
     "tech/수집.md",
-    "tech/HTTP 메서드.md",
     "tech/데이터 블록.md",
     "tech/파일 시스템.md",
     "tech/리소스.md",
     "tech/대분류/CS.md",
-    "tech/URI.md",
     "tech/패스 파라미터.md",
     "tech/쿼리 파라미터.md",
     "tech/URL 파라미터.md",
@@ -175,7 +188,6 @@
     "tech/객체.md",
     "tech/멤버 변수.md",
     "tech/속성.md",
-    "tech/OOP에서의 속성.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
