@@ -162,8 +162,9 @@
   },
   "active": "e6b97472f417e85b",
   "lastOpenFiles": [
-    "tech/타임아웃.md",
+    "tech/캐시.md",
     "tech/HTTP 메서드.md",
+    "tech/타임아웃.md",
     "tech/메커니즘.md",
     "Pasted image 20231112050030.png",
     "tech/캐싱.md",
@@ -188,7 +189,6 @@
     "tech/데이터.md",
     "tech/CORS.md",
     "tech/행위.md",
-    "tech/메서드.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
