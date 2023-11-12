@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e1cf8b041d5b634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/VMware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4302380ae11bcbe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/OpenStack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HTTP.",
+                "query": "openstack.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/서블릿 컨테이너.md",
+                "file": "tech/VMware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/서블릿 컨테이너.md",
+                "file": "tech/VMware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/서블릿 컨테이너.md"
+                "file": "tech/VMware.md"
               }
             }
           }
@@ -173,10 +197,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "682469249f869bb1",
+  "active": "6e1cf8b041d5b634",
   "lastOpenFiles": [
-    "tech/서블릿.md",
+    "tech/OpenStack.md",
+    "tech/VMware.md",
     "tech/서블릿 컨테이너.md",
+    "tech/서블릿.md",
     "Pasted image 20231112175023.png",
     "tech/HTTP.md",
     "tech/HTTP 메서드.md",
@@ -201,8 +227,6 @@
     "tech/URL.md",
     "tech/프록시.md",
     "tech/쿠키.md",
-    "tech/메타데이터.md",
-    "tech/데이터.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
