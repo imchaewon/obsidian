@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "4da0edd90e76a70a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/UMS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4302380ae11bcbe0",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/VMware.md",
+                "file": "tech/UMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/VMware.md",
+                "file": "tech/UMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/VMware.md"
+                "file": "tech/UMS.md"
               }
             }
           }
@@ -197,10 +209,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6e1cf8b041d5b634",
+  "active": "4da0edd90e76a70a",
   "lastOpenFiles": [
-    "tech/OpenStack.md",
     "tech/VMware.md",
+    "tech/UMS.md",
+    "tech/OpenStack.md",
     "tech/서블릿 컨테이너.md",
     "tech/서블릿.md",
     "Pasted image 20231112175023.png",
@@ -226,7 +239,6 @@
     "tech/파라미터.md",
     "tech/URL.md",
     "tech/프록시.md",
-    "tech/쿠키.md",
     "tech/Telegraf-GREY-Diagram 1.webp",
     "tech/Telegraf-GREY-Diagram.webp",
     "tech/무제 파일.canvas",
