@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "682469249f869bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech/서블릿 컨테이너.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/서블릿.md",
+                "file": "tech/서블릿 컨테이너.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/서블릿.md",
+                "file": "tech/서블릿 컨테이너.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/서블릿.md"
+                "file": "tech/서블릿 컨테이너.md"
               }
             }
           }
@@ -161,11 +173,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fa1ba4561042ab90",
+  "active": "682469249f869bb1",
   "lastOpenFiles": [
+    "tech/서블릿.md",
+    "tech/서블릿 컨테이너.md",
     "Pasted image 20231112175023.png",
     "tech/HTTP.md",
-    "tech/서블릿.md",
     "tech/HTTP 메서드.md",
     "tech/캐시.md",
     "tech/타임아웃.md",
