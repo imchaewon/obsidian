@@ -1,7 +1,10 @@
 ## 설치
 - centos
 	- 버전 1 : sudo yum install influxdb
-	- 버전 2 : sudo yum install influxdb2
+	- 버전 2
+		- wget https://dl.influxdata.com/influxdb/releases/influxdb2-2.0.9.x86_64.rpm
+		- sudo yum localinstall influxdb2-2.0.9.x86_64.rpm
+		- y
 - macOS
 	- brew install influxdb
 
