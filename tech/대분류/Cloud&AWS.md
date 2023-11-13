@@ -376,7 +376,7 @@ AWS [[IAM]] 자격증명 생성하는법
 
 AWS콘솔에 접속 → 우측 상단에 닉네임 클릭 → 보안 자격 증명 클릭 → 엑세스 키 항목에 '엑세스 키 만들기' 클릭 → '액세스 키 만들기' 클릭
 엑세스 키 ID : AKIAZQSAPMMEHWSOEMWW
-비밀 엑세스 키 : +mwNmg/dGUNSIi+9nU69V7gEFWuRapprhzDhawvV
+비밀 엑세스 키 : 비밀...
 
 
 AWS CLI 를 사용하기 위해 자격증명 정보 설정하는법

@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Sharp.md",
+                "file": "Telegraf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "897f6e7dc1446026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telegraf 설치 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d0b925577823e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InfluxDB 설치 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,54 +80,6 @@
             }
           },
           {
-            "id": "00bc421f2085edcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터독.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12da69b034e5b601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telegraf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84f30c2e56b2b7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telegraf 목적지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93f1f4a2afd6de61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InfluxData.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20e723c554d02669",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Telegraf.",
+                "query": "InfluxDB.",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InfluxData.md",
+                "file": "InfluxDB 설치 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InfluxData.md",
+                "file": "InfluxDB 설치 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InfluxData.md"
+                "file": "InfluxDB 설치 방법.md"
               }
             }
           }
@@ -256,8 +232,29 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "93f1f4a2afd6de61",
+  "active": "8d0b925577823e72",
   "lastOpenFiles": [
+    "Telegraf 설치 방법.md",
+    "InfluxDB 설치 방법.md",
+    "InfluxDB.md",
+    "Telegraf.md",
+    "Pasted image 20231113144120.png",
+    "DB.md",
+    "Telegraf 와 Beats의 차이.md",
+    "Grafana.md",
+    "그라파나.md",
+    "C Sharp.md",
+    "Datadog.md",
+    "데이터독.md",
+    "Telegraf 목적지.md",
+    "데이터 수집 에이전트.md",
+    "대분류/Cloud&AWS.md",
+    "AWS.md",
+    "Amazon EC2.md",
+    "Telegraf-GREY-Diagram 2.webp",
+    "다운로드.png",
+    "707041d1-f715-4982-aacc-8b14e0b277d5.png",
+    "InfluxData.md",
     "UMS.md",
     "서블릿 컨테이너.md",
     "서블릿.md",
@@ -267,23 +264,6 @@
     "데이터 처리 프로세스.md",
     "패스 파라미터.md",
     "URL 파라미터.md",
-    "쿼리 스트링.md",
-    "쿼리 파라미터.md",
-    "쿠키.md",
-    "프록시.md",
-    "CORS.md",
-    "Field.md",
-    "필드.md",
-    "OOP에서의 속성.md",
-    "멤버.md",
-    "상태.md",
-    "Method.md",
-    "무제 파일 9.md",
-    "행위.md",
-    "무제 파일 8.md",
-    "쿼리.md",
-    "파싱.md",
-    "Elastic.md",
     "Telegraf-GREY-Diagram 1.webp",
     "Telegraf-GREY-Diagram.webp",
     "무제 파일.canvas",
@@ -301,9 +281,6 @@
     "32d0482c-9021-4960-8acd-43fad101e012.png",
     "e905d748-7d00-4b7f-abda-262014c61a11.png",
     "eba9371b-0b38-4f12-a802-9963742052c5.png",
-    "Pasted image 20231012133100.png",
-    "Pasted image 20231012022935.png",
-    "Pasted image 20231012023009.png",
     "회사 용어",
     "대분류/팁 - GA.txt",
     "대분류"
