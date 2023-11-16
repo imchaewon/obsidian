@@ -38,7 +38,7 @@ mysql -u root -p
 다른 서버에서 db접근이 가능하게 하려면 설정파일을 변경해줘야함
 
 /etc/mysql/mariadb.conf.d/50-server.cnf
-파일 (or /etc/mysql/mysql.conf.d/mysqld.cnf 파일)에서
+파일 (or /etc/mysql/mysql.conf.d/mysqld.cnf 파일 or /etc/mysql/my.cnf 파일?)에서
 
 1. 아래 내용을 주석 하기
 bind-address	= 127.0.0.1
