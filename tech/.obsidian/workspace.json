@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MariaDB 설치 방법.md",
+                "file": "Zabbix.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MariaDB 설치 방법.m",
+                "query": "Zabbix.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MariaDB 설치 방법.md",
+                "file": "Zabbix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MariaDB 설치 방법.md",
+                "file": "Zabbix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MariaDB 설치 방법.md"
+                "file": "Zabbix.md"
               }
             }
           }
@@ -234,12 +234,15 @@
   },
   "active": "0531c27636f99718",
   "lastOpenFiles": [
+    "자빅스.md",
+    "Zabbix.md",
+    "MariaDB 설치 방법.md",
+    "무제 파일 13.md",
     "CentOS.md",
     "Docker 설치 방법.md",
     "OpenSearch 설치 방법.md",
     "대분류/Opensearch.md",
     "Telegraf 설치 방법.md",
-    "MariaDB 설치 방법.md",
     "Grafana 설치 방법.md",
     "리눅스 배포판.md",
     "InfluxDB.md",
@@ -257,9 +260,6 @@
     "무제 파일 11.md",
     "무제 파일 10.md",
     "데이터 수집 에이전트.md",
-    "DBMS.md",
-    "TOML.md",
-    "Datadog.md",
     "Pasted image 20231113144120.png",
     "다운로드.png",
     "Telegraf-GREY-Diagram 2.webp",
