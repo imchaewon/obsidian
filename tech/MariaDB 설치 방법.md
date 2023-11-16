@@ -12,10 +12,10 @@ df -h
 
 sudo mysql
 
-안되면 아래처럼 해서 비밀번호 없이 로그인
-
+만약 안되면 아래처럼 해서 비밀번호 없이 로그인
 sudo systemctl stop mysql
 sudo mysqld_safe --skip-grant-tables &
+sudo mysql
 
 ## root계정 비밀번호 초기화
 
