@@ -41,9 +41,9 @@ mysql -u root -p
 파일 (or /etc/mysql/mysql.conf.d/mysqld.cnf 파일)에서
 
 1. 아래 내용을 주석 하기
-bind-address	= 0.0.0.0
+bind-address	= 127.0.0.1
 
-2. DB 서비스 재시작
+2. DB 서비스 재시작 (안되면 아래 락 해제 명령어 입력)
 sudo service mysql restart
 
 ## MariaDB 삭제 방법
