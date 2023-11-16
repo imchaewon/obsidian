@@ -9,7 +9,23 @@ mariadb --version
 df -h
 
 ## sql문 입력창으로 이동
+
 sudo mysql
+
+```sql
+use mysql;
+update user set password=password('비밀번호') where user='root';
+FLASH PRIVILEGES;
+
+update user set plugin='mysql_native_password' where user='root';
+FLASH PRIVILEGES;
+```
+
+exit 후 root계정 접속
+
+```bash
+mysql -u root -p
+```
 
 ## MariaDB 삭제 방법
 

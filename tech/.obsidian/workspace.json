@@ -37,62 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegraf 설치 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2a230125d4a5344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대분류/Opensearch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "334a1c4537f04320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSearch 설치 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12ff7932a0e7149a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker 설치 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e226e3fcf539446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CentOS.md",
+                "file": "MariaDB 설치 방법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "네트워크 장비.",
+                "query": "설치 방법.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CentOS.md",
+                "file": "MariaDB 설치 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CentOS.md",
+                "file": "MariaDB 설치 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CentOS.md"
+                "file": "MariaDB 설치 방법.md"
               }
             }
           }
@@ -220,18 +172,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8e226e3fcf539446",
+  "active": "26b3c5301acea16e",
   "lastOpenFiles": [
+    "Telegraf 설치 방법.md",
+    "대분류/Opensearch.md",
+    "OpenSearch 설치 방법.md",
+    "Docker 설치 방법.md",
+    "CentOS.md",
     "네트워크 장비.md",
     "Zabbix.md",
     "자빅스.md",
     "MariaDB 설치 방법.md",
     "무제 파일 13.md",
-    "CentOS.md",
-    "Docker 설치 방법.md",
-    "OpenSearch 설치 방법.md",
-    "대분류/Opensearch.md",
-    "Telegraf 설치 방법.md",
     "Grafana 설치 방법.md",
     "리눅스 배포판.md",
     "InfluxDB.md",
