@@ -13,6 +13,9 @@ sudo mysql
 
 ## MariaDB 삭제 방법
 
+MariaDB 테이블 확인
+
+
 MariaDB 서버 중지
 sudo systemctl stop mariadb
 
