@@ -15,7 +15,6 @@ sudo mysql
 
 MariaDB 테이블 확인
 
-
 MariaDB 서버 중지
 sudo systemctl stop mariadb
 
@@ -25,7 +24,7 @@ sudo rm /var/lib/dpkg/lock
 
 프로세스 실행 확인 및 종료
 ps aux | grep mysql
-kill 프로세스ID
+sudo kill 프로세스ID
 
 MariaDB 완전히 제거
 sudo apt remove --purge mariadb-server mariadb-client mariadb-common
