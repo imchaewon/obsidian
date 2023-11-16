@@ -90,21 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0531c27636f99718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zabbix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zabbix.",
+                "query": "네트워크 장비.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zabbix.md",
+                "file": "CentOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zabbix.md",
+                "file": "CentOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zabbix.md"
+                "file": "CentOS.md"
               }
             }
           }
@@ -232,10 +220,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0531c27636f99718",
+  "active": "8e226e3fcf539446",
   "lastOpenFiles": [
-    "자빅스.md",
+    "네트워크 장비.md",
     "Zabbix.md",
+    "자빅스.md",
     "MariaDB 설치 방법.md",
     "무제 파일 13.md",
     "CentOS.md",
@@ -259,7 +248,6 @@
     "Grafana.md",
     "무제 파일 11.md",
     "무제 파일 10.md",
-    "데이터 수집 에이전트.md",
     "Pasted image 20231113144120.png",
     "다운로드.png",
     "Telegraf-GREY-Diagram 2.webp",
