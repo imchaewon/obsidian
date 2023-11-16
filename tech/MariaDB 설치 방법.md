@@ -37,14 +37,17 @@ mysql -u root -p
 
 다른 서버에서 db접근이 가능하게 하려면 설정파일을 변경해줘야함
 
-/etc/mysql/mariadb.conf.d/50-server.cnf
-파일 (or /etc/mysql/mysql.conf.d/mysqld.cnf 파일 or /etc/mysql/my.cnf 파일?)에서
+/etc/mysql/mariadb.conf.d/50-server.cnf 파일에서
 
 1. 아래 내용을 주석 하기
 bind-address	= 127.0.0.1
 
-2. DB 서비스 시작
+2. DB 서비스 시작 (안되면 ps aux | grep mysql 로 찾아서 프로세스 kill 하고 재시도)
 sudo service mysql restart
+
+## DB 튜닝
+똑같이 /etc/mysql/mariadb.conf.d/50-server.cnf 파일에서 값을 아래 문서 보고 내서버에 맞게 설정하면 됨
+https://happist.com/577204/db-%ED%8A%9C%EB%8B%9D%EC%9C%BC%EB%A1%9C-mysql-%EC%B5%9C%EC%A0%81%ED%99%94
 
 ## MariaDB 삭제 방법
 
