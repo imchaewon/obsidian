@@ -8,15 +8,23 @@ mariadb --version
 디스크 여유 확인
 df -h
 
-## sql문 입력창으로 이동
+## 비밀번호 없이 db접속
 
 sudo mysql
+
+안되면 아래처럼 해서 비밀번호 없이 로그인
+
+sudo systemctl stop mysql
+sudo mysqld_safe --skip-grant-tables &
+
+## root계정 비밀번호 초기화
 
 ```sql
 use mysql;
 update user set password=password('비밀번호') where user='root';
 FLASH PRIVILEGES;
 
+// 아래는 안해도 되긴 함
 update user set plugin='mysql_native_password' where user='root';
 FLASH PRIVILEGES;
 ```
